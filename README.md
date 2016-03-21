@@ -2,6 +2,7 @@ Stage-2 Layer 1 Pattern Generator
 ========================
 
 Installation:
+------------------------
 
 cmsrel CMSSW_7_6_3 #check out CMSSW area
 
@@ -20,6 +21,7 @@ cd ../
 scram b -j 9 
 
 Usage:
+--------------
 
 In Layer1PatternGenerator/test/
 
